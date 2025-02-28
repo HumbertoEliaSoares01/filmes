@@ -1,0 +1,28 @@
+:root{
+    --corBody: #dddddd;
+}
+html{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    padding: 10px;
+    background-color: var(--corBody);
+}
+div{
+    background-color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+video{
+    display: block;
+    margin: auto;
+    padding: 25px;
+    width: 30%;
+}
+h1{
+    text-align: center;
+    font-size: 2em;
+}
+

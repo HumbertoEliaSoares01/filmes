@@ -1,5 +1,6 @@
 :root{
     --corBody: #dddddd;
+    --corBorder:#111111;
 }
 html{
     margin: 0px;
@@ -14,6 +15,7 @@ div{
     padding: 10px;
     margin: 10px;
     border-radius: 5px;
+    position: relative;
 }
 video{
     display: block;
@@ -25,4 +27,11 @@ h1{
     text-align: center;
     font-size: 2em;
 }
-
+.googleDrive{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    height: 75px;
+    border: 1px solid var(--corBorder);
+    border-radius: 5px;
+}

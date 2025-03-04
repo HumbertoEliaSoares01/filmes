@@ -35,3 +35,12 @@ h1{
     border: 1px solid var(--corBorder);
     border-radius: 5px;
 }
+.okFilmes{
+    position: absolute;
+    top: 110px;
+    right: 20px;
+    width: 135px;
+    border: 1px solid var(--corBorder);
+    border-radius: 5px;
+
+}

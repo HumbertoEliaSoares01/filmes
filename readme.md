@@ -13,4 +13,4 @@ Estes arquivos grandes são os arquivos de vídeo, quase todos arquivos "*.webm"
 ## google drive
 Para assistir os filmes, ou fazer download, há o link do google drive, com o respectivo email de cada um no arquivo ["index.html"](https://humbertoeliasoares01.github.io/filmes/index.html) que está na raiz do repositório.
 ## upload pelo GitHub
-A partir de um certo momento, só consigo faer upload neste repositório a partir do GitHub, movendo  os arquivos com o mouse.
+Depois de um certo momento, só consigo fazer upload deste repositório para o repositório remoto, a partir do GitHub, arrastando os arquivos do 'Explorador e Arquivos do Windows' com o mouse.

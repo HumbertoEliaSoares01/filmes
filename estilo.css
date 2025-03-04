@@ -1,6 +1,7 @@
 :root{
     --corBody: #dddddd;
     --corBorder:#111111;
+    --corBorder:#111111;
 }
 html{
     margin: 0px;

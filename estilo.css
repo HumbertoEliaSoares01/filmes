@@ -29,6 +29,7 @@ h1{
     font-size: 2em;
 }
 .googleDrive{
+    opacity: 0.5;
     position: absolute;
     top: 20px;
     right: 20px;
@@ -37,6 +38,7 @@ h1{
     border-radius: 5px;
 }
 .okFilmes{
+    opacity: 0.5;
     position: absolute;
     top: 110px;
     right: 20px;

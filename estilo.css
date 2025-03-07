@@ -34,6 +34,17 @@ h1{
     top: 20px;
     right: 20px;
     height: 75px;
+    width: 135px;
+    border: 1px solid var(--corBorder);
+    border-radius: 5px;
+}
+.primeVideo{
+    opacity: 0.5;
+    position: absolute;
+    top: 20px;
+    right: 180px;
+    height: 75px;
+    width: 135px;
     border: 1px solid var(--corBorder);
     border-radius: 5px;
 }
@@ -42,8 +53,28 @@ h1{
     position: absolute;
     top: 110px;
     right: 20px;
+    height: 75px;
     width: 135px;
     border: 1px solid var(--corBorder);
     border-radius: 5px;
-
+}
+.netFlix{
+    opacity: 0.5;
+    position: absolute;
+    top: 110px;
+    right: 180px;
+    height: 75px;
+    width: 135px;
+    border: 1px solid var(--corBorder);
+    border-radius: 5px;
+}
+.youTube{
+    opacity: 0.5;
+    position: absolute;
+    top: 200px;
+    right: 20px;
+    height: 75px;
+    width: 135px;
+    border: 1px solid var(--corBorder);
+    border-radius: 5px;
 }

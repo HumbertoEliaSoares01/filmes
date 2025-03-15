@@ -4,35 +4,37 @@
     --corBorder:#111111;
 }
 html{
-    margin: 0px;
-    padding: 0px;
+    margin: 0%;
+    padding: 0%;
 }
 body{
-    padding: 10px;
+    margin: 2.5%;
+    padding: 2.5%;
     background-color: var(--corBody);
 }
 div{
     background-color: #ffffff;
-    padding: 10px;
-    margin: 10px;
+    padding: 0% 2.5%;
+    margin: 0% 2.5%;
     border-radius: 5px;
     position: relative;
 }
 video{
-    display: block;
-    margin: auto;
-    padding: 25px;
-    width: 30%;
+    /* display: block;
+    margin: auto; */
+    padding: 2.5% 10%;
+    width: 50%;
 }
 h1{
-    text-align: center;
+    /* text-align: center; */
+    padding: 2.5% 10%;
     font-size: 2em;
 }
 .googleDrive{
     opacity: 0.5;
     position: absolute;
-    top: 20px;
-    right: 20px;
+    top: 5%;
+    right: 2%;
     height: 75px;
     width: 135px;
     border: 1px solid var(--corBorder);
@@ -41,8 +43,8 @@ h1{
 .primeVideo{
     opacity: 0.5;
     position: absolute;
-    top: 20px;
-    right: 180px;
+    top: 5%;
+    right: 20%;
     height: 75px;
     width: 135px;
     border: 1px solid var(--corBorder);

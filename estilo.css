@@ -29,14 +29,15 @@ h1{
     /* text-align: center; */
     padding: 2.5% 10%;
     font-size: 2em;
+    max-width: 50%;
 }
 .googleDrive{
     opacity: 0.5;
     position: absolute;
     top: 5%;
     right: 2%;
-    height: 75px;
-    width: 135px;
+    height: 17.5%;
+    width: 13%;
     border: 1px solid var(--corBorder);
     border-radius: 5px;
 }
@@ -44,39 +45,39 @@ h1{
     opacity: 0.5;
     position: absolute;
     top: 5%;
-    right: 20%;
-    height: 75px;
-    width: 135px;
+    right: 17%;
+    height: 17.5%;
+    width: 13%;
     border: 1px solid var(--corBorder);
     border-radius: 5px;
 }
 .okFilmes{
     opacity: 0.5;
     position: absolute;
-    top: 110px;
-    right: 20px;
-    height: 75px;
-    width: 135px;
+    top: 25%;
+    right: 2%;
+    height: 17.5%;
+    width: 13%;
     border: 1px solid var(--corBorder);
     border-radius: 5px;
 }
 .netFlix{
     opacity: 0.5;
     position: absolute;
-    top: 110px;
-    right: 180px;
-    height: 75px;
-    width: 135px;
+    top: 25%;
+    right: 17%;
+    height: 17.5%;
+    width: 13%;
     border: 1px solid var(--corBorder);
     border-radius: 5px;
 }
 .youTube{
     opacity: 0.5;
     position: absolute;
-    top: 200px;
-    right: 20px;
-    height: 75px;
-    width: 135px;
+    top: 45.5%;
+    right: 2%;
+    height: 17.5%;
+    width: 13%;
     border: 1px solid var(--corBorder);
     border-radius: 5px;
 }

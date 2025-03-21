@@ -81,3 +81,13 @@ h1{
     border: 1px solid var(--corBorder);
     border-radius: 5px;
 }
+.filmizeTv{
+    opacity: 0.5;
+    position: absolute;
+    top: 45.5%;
+    right: 17%;
+    height: 17.5%;
+    width: 13%;
+    border: 1px solid var(--corBorder);
+    border-radius: 5px;
+}

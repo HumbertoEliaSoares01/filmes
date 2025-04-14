@@ -12,6 +12,9 @@ body{
     padding: 2.5%;
     background-color: var(--corBody);
 }
+header{
+    width: 100%;
+}
 div{
     background-color: #ffffff;
     padding: 0% 2.5%;
